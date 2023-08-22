@@ -6,3 +6,5 @@ OLC Homepage : https://github.com/OneLoneCoder/olcPixelGameEngine/wiki
 Just creates some demos for tasks and fun !
 
 Enjoy !
+
+Codes can work well on Visual Studio 2022 .
