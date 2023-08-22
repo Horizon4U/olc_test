@@ -3,7 +3,7 @@
 
 OLC Homepage : https://github.com/OneLoneCoder/olcPixelGameEngine/wiki
 
-Just creates some demos for tasks and fun !
+Just created some demos for tasks and fun !
 
 Enjoy !
 
