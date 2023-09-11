@@ -9,4 +9,4 @@ Enjoy !
 
 Codes work well on Visual Studio 2022 .
 
-![Image text](https://github.com/Horizon4U/img_repo/blob/main/olc_test/Hades.png)
+![Image text](./Hades.png)
